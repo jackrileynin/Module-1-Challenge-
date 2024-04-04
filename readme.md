@@ -22,8 +22,6 @@ This project is a benefits page for Horiseon, a digital marketing agency. The we
 ## Usage
 Open the `index.html` file in a web browser to view the benefits page.
 
-## Credits
-This project is created and maintained by Horiseon Social Solution Services, Inc.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
